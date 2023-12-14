@@ -1,3 +1,5 @@
+[![CI](https://github.com/n01e0/MCCAP/actions/workflows/CI.yml/badge.svg)](https://github.com/n01e0/MCCAP/actions/workflows/CI.yml)
+
 # MCCAP
 Merry Christmas! Chicken Art Protocol
 
